@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohammadkaif51/Leetcode/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/mohammadkaif51/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammadkaif51/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/mohammadkaif51/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
